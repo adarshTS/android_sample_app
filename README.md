@@ -3,7 +3,7 @@
 
 A simple Flutter Android app with:
 
-- HomePage (logo, button to view products)
+- HomePage 
 - Products Page (mobile phones, add to cart, cart icon)
 - Cart Page (view/remove products, checkout)
 - Checkout Page (order confirmation)
