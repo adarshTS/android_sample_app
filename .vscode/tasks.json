@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "Flutter Build APK",
+      "command": "flutter build apk --release",
+      "args": [],
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
